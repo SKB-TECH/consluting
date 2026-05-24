@@ -13,14 +13,14 @@ export function HeroSection() {
       <section id="home" className="relative bg-white">
         <div className="relative min-h-[20px] overflow-hidden">
           <Image
-              src="/images/bg.jpeg"
+              src="/images/soleil.png"
               alt="BJA Consulting"
               fill
               priority
               className="object-cover"
           />
 
-          <div className="absolute inset-0 bg-gradient-to-r from-black/75 via-black/55 to-black/30" />
+          <div className="absolute inset-0 bg-gradient-to-r from-black/65 via-black/75 to-black/30" />
 
           <div className="relative z-10 flex min-h-[820px] items-center justify-center px-4 text-center">
             <FadeUp>
