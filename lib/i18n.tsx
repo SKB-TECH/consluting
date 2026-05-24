@@ -24,7 +24,7 @@ const dictionaries = {
       badge: "Your partner in progress",
       title: "Invest in the Democratic Republic of Congo with confidence.",
       description:
-          "BJA Consulting SARL supports international investors, entrepreneurs and organizations seeking trusted local guidance, market entry support and reliable business opportunities in the DRC.",
+          "BJA Consulting Sarl supports international investors, entrepreneurs and organizations seeking trusted local guidance, market entry support and reliable business opportunities in the DRC.",
       primary: "Start a conversation",
       secondary: "Explore opportunities",
       points: [
@@ -36,10 +36,10 @@ const dictionaries = {
       cardTitle: "Mining, energy, agriculture and infrastructure",
     },
     about: {
-      label: "About BJA Consulting SARL",
+      label: "About BJA Consulting Sarl",
       title: "A trusted bridge between investors and the DRC market",
       description:
-          "BJA Consulting SARL positions itself as a reliable business advisory partner for international investors looking to enter, understand and expand within the Democratic Republic of Congo.",
+          "BJA Consulting Sarl positions itself as a reliable business advisory partner for international investors looking to enter, understand and expand within the Democratic Republic of Congo.",
       points: [
         "Local knowledge of the Congolese market",
         "Professional guidance for foreign investors",
@@ -51,7 +51,7 @@ const dictionaries = {
       label: "Investment opportunities",
       title: "High-potential sectors in the DRC",
       description:
-          "BJA Consulting SARL helps investors identify, evaluate and structure opportunities across strategic sectors of the Congolese economy.",
+          "BJA Consulting Sarl helps investors identify, evaluate and structure opportunities across strategic sectors of the Congolese economy.",
       items: [
         {
           title: "Hydropower",
@@ -135,7 +135,7 @@ const dictionaries = {
       label: "Contact",
       title: "Ready to explore business opportunities in the DRC?",
       description:
-          "Send your investment interest and BJA Consulting SARL will help you define the next step.",
+          "Send your investment interest and BJA Consulting Sarl will help you define the next step.",
       location: "Kinshasa, Democratic Republic of Congo",
       fullName: "Full name",
       company: "Company",
@@ -162,7 +162,7 @@ const dictionaries = {
       badge: "Votre partenaire vers le progrès",
       title: "Investissez en République Démocratique du Congo en toute confiance.",
       description:
-          "BJA Consulting SARL accompagne les investisseurs internationaux, entrepreneurs et organisations qui recherchent un appui local fiable, une stratégie d’entrée sur le marché et des opportunités d’affaires solides en RDC.",
+          "BJA Consulting Sarl accompagne les investisseurs internationaux, entrepreneurs et organisations qui recherchent un appui local fiable, une stratégie d’entrée sur le marché et des opportunités d’affaires solides en RDC.",
       primary: "Démarrer un échange",
       secondary: "Voir les opportunités",
       points: [
@@ -174,10 +174,10 @@ const dictionaries = {
       cardTitle: "Mines, énergie, agriculture et infrastructures",
     },
     about: {
-      label: "À propos de BJA Consulting SARL",
+      label: "À propos de BJA Consulting Sarl",
       title: "Un pont de confiance entre les investisseurs et le marché congolais",
       description:
-          "BJA Consulting SARL se positionne comme un partenaire fiable en conseil d’affaires pour les investisseurs internationaux souhaitant entrer, comprendre et se développer en République Démocratique du Congo.",
+          "BJA Consulting Sarl se positionne comme un partenaire fiable en conseil d’affaires pour les investisseurs internationaux souhaitant entrer, comprendre et se développer en République Démocratique du Congo.",
       points: [
         "Connaissance locale du marché congolais",
         "Accompagnement professionnel des investisseurs étrangers",
@@ -189,7 +189,7 @@ const dictionaries = {
       label: "Opportunités d’investissement",
       title: "Secteurs à fort potentiel en RDC",
       description:
-          "BJA Consulting SARL aide les investisseurs à identifier, évaluer et structurer des opportunités dans les secteurs stratégiques de l’économie congolaise.",
+          "BJA Consulting Sarl aide les investisseurs à identifier, évaluer et structurer des opportunités dans les secteurs stratégiques de l’économie congolaise.",
       items: [
         {
           title: "Hydroélectricité",
@@ -273,7 +273,7 @@ const dictionaries = {
       label: "Contact",
       title: "Prêt à explorer les opportunités d’affaires en RDC ?",
       description:
-          "Envoyez votre intérêt d’investissement et BJA Consulting SARL vous aidera à définir la prochaine étape.",
+          "Envoyez votre intérêt d’investissement et BJA Consulting Sarl vous aidera à définir la prochaine étape.",
       location: "Kinshasa, République Démocratique du Congo",
       fullName: "Nom complet",
       company: "Entreprise",
